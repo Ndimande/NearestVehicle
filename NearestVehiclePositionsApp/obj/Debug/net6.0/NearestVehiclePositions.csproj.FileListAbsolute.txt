@@ -1,0 +1,15 @@
+C:\Users\Unblocker\Desktop\New folder\NearestVehiclePositionsApp\NearestVehiclePositionsApp\bin\Debug\net6.0\NearestVehiclePositions.exe
+C:\Users\Unblocker\Desktop\New folder\NearestVehiclePositionsApp\NearestVehiclePositionsApp\bin\Debug\net6.0\NearestVehiclePositions.deps.json
+C:\Users\Unblocker\Desktop\New folder\NearestVehiclePositionsApp\NearestVehiclePositionsApp\bin\Debug\net6.0\NearestVehiclePositions.runtimeconfig.json
+C:\Users\Unblocker\Desktop\New folder\NearestVehiclePositionsApp\NearestVehiclePositionsApp\bin\Debug\net6.0\NearestVehiclePositions.dll
+C:\Users\Unblocker\Desktop\New folder\NearestVehiclePositionsApp\NearestVehiclePositionsApp\bin\Debug\net6.0\NearestVehiclePositions.pdb
+C:\Users\Unblocker\Desktop\New folder\NearestVehiclePositionsApp\NearestVehiclePositionsApp\obj\Debug\net6.0\NearestVehiclePositions.csproj.AssemblyReference.cache
+C:\Users\Unblocker\Desktop\New folder\NearestVehiclePositionsApp\NearestVehiclePositionsApp\obj\Debug\net6.0\NearestVehiclePositions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Unblocker\Desktop\New folder\NearestVehiclePositionsApp\NearestVehiclePositionsApp\obj\Debug\net6.0\NearestVehiclePositions.AssemblyInfoInputs.cache
+C:\Users\Unblocker\Desktop\New folder\NearestVehiclePositionsApp\NearestVehiclePositionsApp\obj\Debug\net6.0\NearestVehiclePositions.AssemblyInfo.cs
+C:\Users\Unblocker\Desktop\New folder\NearestVehiclePositionsApp\NearestVehiclePositionsApp\obj\Debug\net6.0\NearestVehiclePositions.csproj.CoreCompileInputs.cache
+C:\Users\Unblocker\Desktop\New folder\NearestVehiclePositionsApp\NearestVehiclePositionsApp\obj\Debug\net6.0\NearestVehiclePositions.dll
+C:\Users\Unblocker\Desktop\New folder\NearestVehiclePositionsApp\NearestVehiclePositionsApp\obj\Debug\net6.0\refint\NearestVehiclePositions.dll
+C:\Users\Unblocker\Desktop\New folder\NearestVehiclePositionsApp\NearestVehiclePositionsApp\obj\Debug\net6.0\NearestVehiclePositions.pdb
+C:\Users\Unblocker\Desktop\New folder\NearestVehiclePositionsApp\NearestVehiclePositionsApp\obj\Debug\net6.0\NearestVehiclePositions.genruntimeconfig.cache
+C:\Users\Unblocker\Desktop\New folder\NearestVehiclePositionsApp\NearestVehiclePositionsApp\obj\Debug\net6.0\ref\NearestVehiclePositions.dll
